@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f7f6; 
+    color: #333; 
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.page-header {
+    background-color: #000000d2; 
+    color: #ecf0f1; 
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.page-header h1 {
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+
+.page-header form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #000658; 
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9; 
+}
+
+
+.main {
+    padding: 2rem 0;
+}
+
+.desc{
+    padding-bottom: 2rem;
+    text-align: justify;
+}
+
+.card-container {
+    display: grid;
+    gap: 20px;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px; 
+    padding: 0; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    overflow: hidden; 
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    display: flex;
+    justify-content: center; 
+    background-color: var(--cor-principal, #2c3e50);
+    color: var(--cor-texto-titulo, #ffffff);
+    padding: 1rem 2rem;
+}
+
+.card-content {
+    padding: 1.5rem 2rem; 
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.card-content p, .card-content h3, .card-content ul {
+    margin-bottom: 1rem;
+}
+
+.card a {
+    color: var(--cor-principal, #3498db); 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.website-link {
+    margin-top: 1.5rem;
+    text-align: right;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+
+.page-footer {
+    background-color: #000000d2; 
+    color: #ecf0f1;
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: 2rem;
+}
+
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.no-results-message{
+    text-decoration: solid;
+    text-align: center;
+}
+
+.logo{
+    border: 3px solid whitesmoke;
+}
+
+.logo:hover{
+    transform: scale(1.05);
+    transform: translateY(-3px);
+    filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.6));
+}

@@ -1,0 +1,1851 @@
+[
+  {
+    "empresa": "Nintendo",
+    "revolucao": "Considerada a salvadora da indústria de videogames após o crash de 1983, a Nintendo não apenas revitalizou o mercado com o NES, mas também estabeleceu pilares de game design com franquias como Super Mario, Pokemon e The Legend of Zelda. Seu foco incansável na inovação da jogabilidade, através de hardware como o Wii e o Switch, redefiniu o que é um console e expandiu o público de jogadores para todas as idades.",
+    "data_criacao": 1889,
+    "fundadores": ["Fusajiro Yamauchi"],
+    "sede": "Kyoto, Japão",
+    "website": "https://www.nintendo.com",
+    "cores": {
+      "principal": "#E60012",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Super Mario Bros.",
+        "descricao": "Definiu o gênero de plataforma 2D e salvou o mercado norte-americano de jogos.",
+        "ano": 1985
+      },
+      {
+        "nome": "Wii Sports",
+        "descricao": "Popularizou os controles por movimento e atraiu públicos não tradicionais.",
+        "ano": 2006
+      }
+    ]
+  },
+  {
+    "empresa": "Valve",
+    "revolucao": "A Valve transformou para sempre o mercado de jogos para PC com a criação do Steam, a plataforma de distribuição digital dominante que democratizou o acesso a jogos e atualizações. Além de produzir clássicos narrativos como Half-Life, a empresa foi pioneira no modelo de eSports sustentado pela comunidade com Dota 2 e Counter-Strike, gerando premiações recordes e estabelecendo um ecossistema competitivo global.",
+    "data_criacao": 1996,
+    "fundadores": ["Gabe Newell", "Mike Harrington"],
+    "sede": "Bellevue, Washington, EUA",
+    "website": "https://www.valvesoftware.com",
+    "cores": {
+      "principal": "#1b1b1b",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Half-Life",
+        "descricao": "Introduziu narrativa em tempo real sem cortes, influenciando todos os FPS modernos.",
+        "ano": 1998
+      },
+      {
+        "nome": "Dota 2",
+        "descricao": "Popularizou o modelo de eSports com premiações financiadas pela comunidade.",
+        "ano": 2013
+      }
+    ]
+  },
+  {
+    "empresa": "Epic Games",
+    "revolucao": "Com a Unreal Engine, a Epic Games não apenas criou uma das ferramentas de desenvolvimento de jogos mais poderosas e acessíveis do mundo, mas também impulsionou a fidelidade gráfica de toda a indústria. Com Fortnite, ela transformou o modelo de 'jogo como serviço' em um fenômeno cultural, integrando eventos ao vivo e metaversos. Sua postura combativa contra as taxas de 30% das lojas de aplicativos iniciou um debate crucial sobre a economia digital.",
+    "data_criacao": 1991,
+    "fundadores": ["Tim Sweeney"],
+    "sede": "Cary, Carolina do Norte, EUA",
+    "website": "https://www.epicgames.com",
+    "cores": {
+      "principal": "#313131",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Fortnite",
+        "descricao": "Reinventou o battle royale com eventos ao vivo e monetização por cosméticos.",
+        "ano": 2017
+      },
+      {
+        "nome": "Unreal Engine",
+        "descricao": "Motor gráfico usado por milhares de estúdios, democratizando o desenvolvimento 3D.",
+        "ano": 1998
+      }
+    ]
+  },
+  {
+    "empresa": "Riot Games",
+    "revolucao": "A Riot Games elevou o conceito de eSports a um patamar global e profissional com League of Legends. A empresa construiu um ecossistema completo, com ligas franqueadas, campeonatos mundiais espetaculares e uma base de fãs massiva. Seu sucesso demonstrou que um único jogo, apoiado por atualizações constantes e um cenário competitivo robusto, pode se tornar uma plataforma de entretenimento duradoura e extremamente lucrativa.",
+    "data_criacao": 2006,
+    "fundadores": ["Brandon Beck", "Marc Merrill"],
+    "sede": "Los Angeles, Califórnia, EUA",
+    "website": "https://www.riotgames.com",
+    "cores": {
+      "principal": "#D02F3C",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "League of Legends",
+        "descricao": "Popularizou o gênero MOBA e criou o modelo de eSports profissional com ligas regionais.",
+        "ano": 2009
+      },
+      {
+        "nome": "Valorant",
+        "descricao": "Aplicou o mesmo modelo de eSports em FPS, com sucesso global.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Electronic Arts (EA)",
+    "revolucao": "A EA foi pioneira na transformação de jogos em serviços contínuos (live services), especialmente através do sucesso estrondoso do modo Ultimate Team em suas franquias esportivas. Esse modelo de monetização, baseado em pacotes de itens virtuais, redefiniu a receita pós-lançamento na indústria e influenciou inúmeros outros jogos a adotarem estratégias de engajamento e gastos contínuos dos jogadores.",
+    "data_criacao": 1982,
+    "fundadores": ["Trip Hawkins"],
+    "sede": "Redwood City, Califórnia, EUA",
+    "website": "https://www.ea.com",
+    "cores": {
+      "principal": "#161616",
+      "texto": "#F0F0F0"
+    },
+    "jogos": [
+      {
+        "nome": "FIFA Ultimate Team",
+        "descricao": "Criou o modelo de cartas e micropagamentos que gera bilhões anualmente.",
+        "ano": 2009
+      },
+      {
+        "nome": "Apex Legends",
+        "descricao": "Battle royale com sistema de progressão e monetização cosmética.",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "empresa": "miHoYo",
+    "revolucao": "A miHoYo (agora HoYoverse) quebrou o estigma dos jogos 'gacha' ao entregar experiências de mundo aberto com altíssima qualidade de produção, comparáveis a títulos AAA de console. Com Genshin Impact, a empresa provou que um modelo free-to-play pode coexistir com uma narrativa profunda, exploração vasta e um apelo visual impressionante, alcançando um sucesso financeiro e cultural sem precedentes em escala global.",
+    "data_criacao": 2012,
+    "fundadores": ["Cai Haoyu", "Liu Wei", "Luo Yuhao"],
+    "sede": "Xangai, China",
+    "website": "https://www.hoyoverse.com",
+    "cores": {
+      "principal": "#00B2E4",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Genshin Impact",
+        "descricao": "Combinou gacha com mundo aberto e narrativa profunda, faturando mais de $4 bilhões.",
+        "ano": 2020
+      },
+      {
+        "nome": "Honkai: Star Rail",
+        "descricao": "Expandiu o modelo para RPG por turnos com sucesso global.",
+        "ano": 2023
+      }
+    ]
+  },
+
+  {
+    "empresa": "Sony Interactive Entertainment",
+    "revolucao": "Com o lançamento do PlayStation, a Sony não apenas popularizou o uso do CD-ROM em consoles, mas também reposicionou os videogames como uma forma de entretenimento madura e cinematográfica. A maior capacidade de armazenamento permitiu narrativas mais complexas, trilhas sonoras orquestradas e cenas em full-motion video (FMV), atraindo um público mais velho e estabelecendo franquias icônicas que definiram uma geração.",
+    "data_criacao": 1993,
+    "fundadores": ["Ken Kutaragi"],
+    "sede": "San Mateo, Califórnia, EUA",
+    "website": "https://www.playstation.com",
+    "cores": {
+      "principal": "#003087",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Final Fantasy VII",
+        "descricao": "RPG épico que mostrou ao Ocidente potencial narrativo e comercial dos JRPGs em CD.",
+        "ano": 1997
+      },
+      {
+        "nome": "Metal Gear Solid",
+        "descricao": "Exemplo pioneiro de stealth 3D com longas sequências cinematográficas e dublagem completa.",
+        "ano": 1998
+      }
+    ]
+  },
+  {
+    "empresa": "Microsoft (Xbox Game Studios)",
+    "revolucao": "A Microsoft revolucionou o jogo online em consoles com o lançamento do Xbox Live. A plataforma padronizou recursos essenciais como lista de amigos, chat de voz e, principalmente, o matchmaking, tornando as partidas multiplayer acessíveis e consistentes. Mais recentemente, com o Xbox Game Pass, a empresa está liderando a mudança do modelo de negócios da indústria para um formato de assinatura, similar ao 'Netflix dos jogos'.",
+    "data_criacao": 2000,
+    "fundadores": ["Microsoft Corporation"],
+    "sede": "Redmond, Washington, EUA",
+    "website": "https://www.xbox.com",
+    "cores": {
+      "principal": "#107C10",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Halo 2",
+        "descricao": "Tornou o Xbox Live essencial, popularizando partidas on-line organizadas em consoles.",
+        "ano": 2004
+      },
+      {
+        "nome": "Forza Motorsport",
+        "descricao": "Introduziu física realista em tempo real e sistema de classificação online para sim-racing.",
+        "ano": 2005
+      }
+    ]
+  },
+  {
+    "empresa": "id Software",
+    "revolucao": "A id Software é a progenitora do gênero de tiro em primeira pessoa (FPS) moderno. Com jogos como Wolfenstein 3D, Doom e Quake, ela não apenas estabeleceu as convenções do gênero, mas também foi pioneira em tecnologias cruciais como texturização 3D e multiplayer online. Seu modelo de distribuição 'shareware' e o incentivo à criação de 'mods' pela comunidade foram fundamentais para a cultura de jogos de PC.",
+    "data_criacao": 1991,
+    "fundadores": ["John Carmack", "John Romero", "Tom Hall", "Adrian Carmack"],
+    "sede": "Richardson, Texas, EUA",
+    "website": "https://www.idsoftware.com",
+    "cores": {
+      "principal": "#F2A900",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Doom",
+        "descricao": "FPS que popularizou multijogador em LAN/Internet e abriu código para modders.",
+        "ano": 1993
+      },
+      {
+        "nome": "Quake",
+        "descricao": "Primeiro FPS com mundo verdadeiramente 3D e matchmaking online (QuakeWorld).",
+        "ano": 1996
+      }
+    ]
+  },
+  {
+    "empresa": "Blizzard Entertainment",
+    "revolucao": "Famosa por seu lema 'fácil de aprender, difícil de dominar', a Blizzard Entertainment estabeleceu o padrão de qualidade para jogos online polidos e viciantes. Com World of Warcraft, ela definiu o gênero MMORPG para uma década. Com StarCraft, solidificou os eSports como um fenômeno na Coreia do Sul. A empresa é mestre em criar universos ricos e em dar suporte aos seus jogos por anos, mantendo comunidades ativas e engajadas.",
+    "data_criacao": 1991,
+    "fundadores": ["Michael Morhaime", "Allen Adham", "Frank Pearce"],
+    "sede": "Irvine, Califórnia, EUA",
+    "website": "https://www.blizzard.com",
+    "cores": {
+      "principal": "#0066CC",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "World of Warcraft",
+        "descricao": "Tornou o gênero MMORPG mainstream e gerou receita recorrente por assinatura.",
+        "ano": 2004
+      },
+      {
+        "nome": "Hearthstone",
+        "descricao": "Digitalizou o card-game com regras simples e modelo free-to-play generoso.",
+        "ano": 2014
+      }
+    ]
+  },
+  {
+    "empresa": "Rockstar Games North",
+    "revolucao": "A Rockstar Games North (anteriormente DMA Design) definiu o gênero de mundo aberto 3D com Grand Theft Auto III. A empresa combinou de forma magistral uma narrativa cinematográfica com uma liberdade sem precedentes para o jogador explorar, interagir e causar o caos em uma cidade viva. Cada novo lançamento da franquia eleva o padrão da indústria em termos de detalhe, imersão e ambição técnica, criando mundos virtuais que são verdadeiros marcos culturais.",
+    "data_criacao": 1987,
+    "fundadores": ["David Jones"],
+    "sede": "Edimburgo, Escócia",
+    "website": "https://www.rockstarnorth.com",
+    "cores": {
+      "principal": "#FBB117",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Grand Theft Auto III",
+        "descricao": "Primeiro sandbox 3D moderno; moldou template de missões, rádio, IA urbana.",
+        "ano": 2001
+      },
+      {
+        "nome": "Red Dead Redemption 2",
+        "descricao": "Elevou simulação de ecossistema e realismo gráfico em mundo aberto.",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "empresa": "Mojang Studios",
+    "revolucao": "Com Minecraft, a Mojang Studios provou que a liberdade criativa e a jogabilidade emergente são mais poderosas do que gráficos fotorrealistas. O jogo se tornou um fenômeno global, transcendendo o entretenimento para se tornar uma ferramenta educacional, uma plataforma social e um playground para a imaginação de milhões. Seu sucesso monumental, vindo de um desenvolvimento independente, inspirou uma geração de criadores.",
+    "data_criacao": 2009,
+    "fundadores": ["Markus 'Notch' Persson"],
+    "sede": "Estocolmo, Suécia",
+    "website": "https://www.minecraft.net",
+    "cores": {
+      "principal": "#5A8351",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Minecraft",
+        "descricao": "Sandbox voxel com crafting ilimitado; virou plataforma de ensino e fenômeno cultural.",
+        "ano": 2011
+      }
+    ]
+  },
+  {
+    "empresa": "King",
+    "revolucao": "A King dominou o mercado de jogos casuais para celular ao aperfeiçoar o modelo de monetização 'free-to-play' com Candy Crush Saga. A empresa transformou mecânicas de jogo simples em uma experiência social e viciante, introduzindo conceitos como 'vidas' limitadas e a compra de 'boosters'. Esse modelo se tornou o padrão para milhares de jogos mobile e demonstrou o imenso potencial financeiro do público casual.",
+    "data_criacao": 2003,
+    "fundadores": ["Riccardo Zacconi", "Sebastian Knutsson"],
+    "sede": "Estocolmo, Suécia",
+    "website": "https://www.king.com",
+    "cores": {
+      "principal": "#FFC107",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Candy Crush Saga",
+        "descricao": "Match-3 free-to-play que popularizou microtransações de ‘vida extra’ no celular.",
+        "ano": 2012
+      }
+    ]
+  },
+  {
+    "empresa": "Activision",
+    "revolucao": "Como a primeira publicadora de jogos third-party independente, a Activision quebrou o monopólio dos fabricantes de consoles sobre o software. Anos depois, com a franquia Call of Duty, ela estabeleceu o padrão para blockbusters anuais de FPS, com campanhas cinematográficas e um multiplayer robusto que se tornou um pilar cultural e financeiro da indústria.",
+    "data_criacao": 1979,
+    "fundadores": ["David Crane", "Larry Kaplan", "Alan Miller", "Bob Whitehead"],
+    "sede": "Santa Monica, Califórnia, EUA",
+    "website": "https://www.activision.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Call of Duty 4: Modern Warfare",
+        "descricao": "Revolucionou o multiplayer online em consoles com seu sistema de progressão e perks.",
+        "ano": 2007
+      },
+      {
+        "nome": "Tony Hawk's Pro Skater 2",
+        "descricao": "Definiu o gênero de skate com jogabilidade arcade viciante e trilha sonora icônica.",
+        "ano": 2000
+      }
+    ]
+  },
+  {
+    "empresa": "Ubisoft",
+    "revolucao": "A Ubisoft se tornou mestre na criação de mundos abertos massivos e detalhados, popularizando uma fórmula de exploração, missões secundárias e progressão que definiu franquias como Assassin's Creed e Far Cry. A empresa se destaca por sua rede global de estúdios que colaboram em projetos de grande escala, permitindo a criação de jogos com uma ambição e escopo gigantescos.",
+    "data_criacao": 1986,
+    "fundadores": ["Família Guillemot"],
+    "sede": "Montreuil, França",
+    "website": "https://www.ubisoft.com",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Assassin's Creed II",
+        "descricao": "Aperfeiçoou a fórmula de mundo aberto da série com uma narrativa forte e um cenário rico.",
+        "ano": 2009
+      },
+      {
+        "nome": "Far Cry 3",
+        "descricao": "Estabeleceu o modelo de vilão carismático e postos avançados que a série segue até hoje.",
+        "ano": 2012
+      }
+    ]
+  },
+  {
+    "empresa": "Capcom",
+    "revolucao": "A Capcom foi fundamental na definição de dois gêneros inteiros: com Street Fighter II, ela iniciou a era de ouro dos jogos de luta, estabelecendo as mecânicas e arquétipos que perduram até hoje. Com Resident Evil, ela cunhou o termo 'survival horror' e criou o modelo para jogos de terror focados em gerenciamento de recursos, quebra-cabeças e atmosfera.",
+    "data_criacao": 1979,
+    "fundadores": ["Kenzo Tsujimoto"],
+    "sede": "Osaka, Japão",
+    "website": "https://www.capcom.com",
+    "cores": {
+      "principal": "#FFC400",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Street Fighter II",
+        "descricao": "O jogo que iniciou a febre dos jogos de luta nos anos 90 e definiu o gênero.",
+        "ano": 1991
+      },
+      {
+        "nome": "Resident Evil 4",
+        "descricao": "Reinventou o survival horror com uma perspectiva sobre o ombro e foco na ação.",
+        "ano": 2005
+      }
+    ]
+  },
+  {
+    "empresa": "Sega",
+    "revolucao": "Nos anos 90, a Sega foi a principal rival da Nintendo, protagonizando a famosa 'guerra dos consoles'. Com o Mega Drive (Genesis) e seu mascote Sonic, a empresa promoveu uma imagem mais 'cool' e adulta para os videogames. Embora tenha saído do mercado de hardware, seu legado em jogos de arcade e franquias como Yakuza e Persona continua influente.",
+    "data_criacao": 1960,
+    "fundadores": ["Martin Bromley", "Irving Bromberg", "James Humpert"],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.sega.com",
+    "cores": {
+      "principal": "#00387B",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Sonic the Hedgehog",
+        "descricao": "Introduziu velocidade e atitude, criando um rival icônico para o Mario.",
+        "ano": 1991
+      },
+      {
+        "nome": "Yakuza 0",
+        "descricao": "Revitalizou a série no ocidente com um drama criminal denso e atividades secundárias excêntricas.",
+        "ano": 2015
+      }
+    ]
+  },
+  {
+    "empresa": "Square Enix",
+    "revolucao": "Formada pela fusão de duas gigantes (Square e Enix), a Square Enix é sinônimo de JRPG. Com franquias como Final Fantasy e Dragon Quest, a empresa elevou o gênero a novos patamares de narrativa, qualidade visual e complexidade de sistemas. Final Fantasy VII, em particular, foi um marco que popularizou os JRPGs no Ocidente e demonstrou o poder cinematográfico dos videogames.",
+    "data_criacao": 2003,
+    "fundadores": ["Fusão da Square e Enix"],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.square-enix.com",
+    "cores": {
+      "principal": "#ED1C24",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Chrono Trigger",
+        "descricao": "Considerado um dos maiores JRPGs de todos os tempos, com viagens no tempo e múltiplos finais.",
+        "ano": 1995
+      },
+      {
+        "nome": "Kingdom Hearts II",
+        "descricao": "Aperfeiçoou o crossover entre Final Fantasy e Disney com um sistema de combate aclamado.",
+        "ano": 2005
+      }
+    ]
+  },
+  {
+    "empresa": "FromSoftware",
+    "revolucao": "A FromSoftware revitalizou o conceito de desafio nos jogos modernos, criando o subgênero 'Souls-like'. Seus jogos, como Dark Souls e Elden Ring, são conhecidos pela dificuldade elevada, design de mundo interconectado e narrativa ambiental, onde a história é contada através do cenário. Eles provaram que há um mercado massivo para experiências que exigem paciência, habilidade e exploração do jogador.",
+    "data_criacao": 1986,
+    "fundadores": ["Naotoshi Zin"],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.fromsoftware.jp/ww/",
+    "cores": {
+      "principal": "#3A3A3A",
+      "texto": "#BFA15A"
+    },
+    "jogos": [
+      {
+        "nome": "Dark Souls",
+        "descricao": "O jogo que solidificou o gênero 'Souls-like' e influenciou uma década de game design.",
+        "ano": 2011
+      },
+      {
+        "nome": "Elden Ring",
+        "descricao": "Levou a fórmula Souls para um mundo aberto massivo, tornando-se um fenômeno cultural.",
+        "ano": 2022
+      }
+    ]
+  },
+  {
+    "empresa": "CD Projekt Red",
+    "revolucao": "Este estúdio polonês elevou o padrão para RPGs de mundo aberto com The Witcher 3: Wild Hunt, um jogo aclamado por sua narrativa madura, missões secundárias com profundidade e um mundo vasto e reativo. A empresa é conhecida por sua abordagem pró-consumidor, oferecendo vastas expansões e se opondo a práticas como DRM, construindo uma base de fãs extremamente leal.",
+    "data_criacao": 1994,
+    "fundadores": ["Marcin Iwiński", "Michał Kiciński"],
+    "sede": "Varsóvia, Polônia",
+    "website": "https://en.cdprojektred.com/",
+    "cores": {
+      "principal": "#DC042B",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "The Witcher 3: Wild Hunt",
+        "descricao": "Redefiniu as expectativas para missões secundárias e narrativa em RPGs de mundo aberto.",
+        "ano": 2015
+      },
+      {
+        "nome": "Cyberpunk 2077",
+        "descricao": "Apesar de um lançamento conturbado, tornou-se um exemplo de redenção com um mundo imersivo.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Larian Studios",
+    "revolucao": "A Larian Studios ressuscitou o gênero CRPG (Computer RPG) para o público mainstream. Com Divinity: Original Sin 2 e, especialmente, Baldur's Gate 3, eles demonstraram que jogos com imensa profundidade, liberdade de escolha e sistemas complexos podem ser sucessos comerciais e de crítica avassaladores. Baldur's Gate 3 se tornou um marco, provando que não é preciso simplificar a experiência para alcançar um público massivo.",
+    "data_criacao": 1996,
+    "fundadores": ["Swen Vincke"],
+    "sede": "Gante, Bélgica",
+    "website": "https://larian.com/",
+    "cores": {
+      "principal": "#A92317",
+      "texto": "#F2E1A4"
+    },
+    "jogos": [
+      {
+        "nome": "Divinity: Original Sin 2",
+        "descricao": "Um CRPG aclamado pela crítica que oferece uma liberdade de escolha quase ilimitada.",
+        "ano": 2017
+      },
+      {
+        "nome": "Baldur's Gate 3",
+        "descricao": "Um marco para o gênero RPG, combinando profundidade sistêmica com produção de alta qualidade.",
+        "ano": 2023
+      }
+    ]
+  },
+  {
+    "empresa": "Supergiant Games",
+    "revolucao": "Um dos estúdios independentes mais respeitados, a Supergiant Games é a prova de que equipes pequenas podem criar experiências inesquecíveis. Cada um de seus jogos (Bastion, Transistor, Hades) é uma obra de arte, aclamada por sua direção de arte única, trilha sonora marcante e, acima de tudo, uma integração perfeita entre narrativa e jogabilidade. Hades, em particular, redefiniu o gênero roguelike com sua progressão e história contínuas.",
+    "data_criacao": 2009,
+    "fundadores": ["Amir Rao", "Gavin Simon"],
+    "sede": "San Francisco, Califórnia, EUA",
+    "website": "https://www.supergiantgames.com/",
+    "cores": {
+      "principal": "#E43A19",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Bastion",
+        "descricao": "Famoso por seu narrador dinâmico que reage às ações do jogador em tempo real.",
+        "ano": 2011
+      },
+      {
+        "nome": "Hades",
+        "descricao": "Revolucionou o gênero roguelike ao integrar uma narrativa contínua e envolvente à jogabilidade.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Naughty Dog",
+    "revolucao": "Embora seja um estúdio da Sony, a Naughty Dog merece um destaque individual por ter definido o padrão para jogos de ação e aventura cinematográficos. Com as séries Uncharted e The Last of Us, o estúdio borrou as linhas entre cinema e videogame, entregando narrativas profundas e emocionalmente ressonantes, personagens inesquecíveis e um nível de polimento técnico que se tornou a referência para toda a indústria.",
+    "data_criacao": 1984,
+    "fundadores": ["Andy Gavin", "Jason Rubin"],
+    "sede": "Santa Monica, Califórnia, EUA",
+    "website": "https://www.naughtydog.com/",
+    "cores": {
+      "principal": "#A51C1B",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "The Last of Us",
+        "descricao": "Considerado um dos maiores jogos de todos os tempos por sua narrativa emocional e personagens.",
+        "ano": 2013
+      },
+      {
+        "nome": "Uncharted 2: Among Thieves",
+        "descricao": "Estabeleceu o padrão para sequências de ação cinematográficas e espetaculares em jogos.",
+        "ano": 2009
+      }
+    ]
+  },
+  {
+    "empresa": "Team Cherry",
+    "revolucao": "Com Hollow Knight, a Team Cherry, uma equipe minúscula de três pessoas, criou um dos 'Metroidvanias' mais aclamados de todos os tempos. Eles provaram que um escopo ambicioso, um mundo vasto e interconectado, e uma jogabilidade profunda não dependem de um grande orçamento. O jogo se tornou um fenômeno cult, vendendo milhões de cópias e estabelecendo um novo padrão de qualidade e conteúdo para jogos independentes.",
+    "data_criacao": 2012,
+    "fundadores": ["Ari Gibson", "William Pellen", "David Kazi"],
+    "sede": "Adelaide, Austrália",
+    "website": "http://teamcherry.com.au/",
+    "cores": {
+      "principal": "#EAEAEA",
+      "texto": "#1A1A1A"
+    },
+    "jogos": [
+      {
+        "nome": "Hollow Knight",
+        "descricao": "Um Metroidvania aclamado que combina combate desafiador, exploração profunda e uma atmosfera melancólica.",
+        "ano": 2017
+      },
+      {
+        "nome": "Hollow Knight: Silksong",
+        "descricao": "A aguardada sequência que expandiu o universo com uma nova protagonista e habilidades.",
+        "ano": 2025
+      }
+    ]
+  },
+  {
+    "empresa": "ConcernedApe",
+    "revolucao": "ConcernedApe, o projeto de um único homem, Eric Barone, criou Stardew Valley, um jogo que sozinho revitalizou o gênero de simulação de fazenda. Ele demonstrou que um desenvolvedor apaixonado pode criar uma experiência profunda, charmosa e com centenas de horas de conteúdo, superando muitos títulos de grandes estúdios. O sucesso estrondoso do jogo inspirou uma onda de jogos 'wholesome' (aconchegantes) e provou o poder do desenvolvimento solo.",
+    "data_criacao": 2012,
+    "fundadores": ["Eric 'ConcernedApe' Barone"],
+    "sede": "Seattle, Washington, EUA",
+    "website": "https://www.stardewvalley.net/",
+    "cores": {
+      "principal": "#FFAF44",
+      "texto": "#6A3600"
+    },
+    "jogos": [
+      {
+        "nome": "Stardew Valley",
+        "descricao": "Um simulador de fazenda e vida que se tornou um fenômeno global, criado por uma única pessoa.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Studio MDHR",
+    "revolucao": "O Studio MDHR chocou a indústria com Cuphead, um jogo que resgatou a estética das animações da década de 1930 com uma fidelidade impressionante. O estúdio provou que uma direção de arte única e ousada, combinada com uma jogabilidade 'run-and-gun' desafiadora, pode criar um clássico instantâneo. O sucesso de Cuphead mostrou o valor comercial de se apostar em uma visão artística distinta e sem concessões.",
+    "data_criacao": 2013,
+    "fundadores": ["Chad Moldenhauer", "Jared Moldenhauer"],
+    "sede": "Oakville, Ontário, Canadá",
+    "website": "https://studiomdhr.com/",
+    "cores": {
+      "principal": "#F9D382",
+      "texto": "#D22B23"
+    },
+    "jogos": [
+      {
+        "nome": "Cuphead",
+        "descricao": "Um jogo de ação com estilo de animação dos anos 30, famoso por sua arte e dificuldade.",
+        "ano": 2017
+      }
+    ]
+  },
+  {
+    "empresa": "Sandfall Interactive",
+    "revolucao": "Como um novo estúdio independente, a Sandfall Interactive está na vanguarda de uma nova onda de 'indies AAA'. Com seu jogo de estreia, Expedition 33, eles estão combinando a liberdade criativa e a narrativa focada do desenvolvimento independente com valores de produção e fidelidade gráfica que rivalizam com grandes estúdios. Eles representam a ambição crescente do cenário indie em criar experiências épicas e de grande escala.",
+    "data_criacao": 2020,
+    "fundadores": ["Guillaume Broche"],
+    "sede": "Montpellier, França",
+    "website": "https://sandfall.co/",
+    "cores": {
+      "principal": "#1C2C3A",
+      "texto": "#E1DBC8"
+    },
+    "jogos": [
+      {
+        "nome": "Expedition 33",
+        "descricao": "Um RPG por turnos com uma premissa única e visuais de alta qualidade, quebrando barreiras entre indie e AAA.",
+        "ano": 2025
+      }
+    ]
+  },
+  {
+    "empresa": "Konami",
+    "revolucao": "A Konami foi uma força dominante nos arcades e consoles, criando franquias lendárias que definiram gêneros. Com Metal Gear, ela foi pioneira no gênero stealth. Com Castlevania, ajudou a criar o pilar do 'Metroidvania'. Com Silent Hill, redefiniu o terror psicológico. A empresa também é famosa por ter criado o 'Konami Code', o cheat code mais famoso da história dos videogames.",
+    "data_criacao": 1969,
+    "fundadores": ["Kagemasa Kōzuki"],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.konami.com/",
+    "cores": {
+      "principal": "#D71920",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Metal Gear Solid",
+        "descricao": "Pioneiro do gênero stealth com narrativa cinematográfica e jogabilidade inovadora.",
+        "ano": 1998
+      },
+      {
+        "nome": "Silent Hill 2",
+        "descricao": "Um marco do terror psicológico, aclamado por sua atmosfera e história profunda.",
+        "ano": 2001
+      }
+    ]
+  },
+  {
+    "empresa": "Bandai Namco Entertainment",
+    "revolucao": "Originada da fusão de duas gigantes, a Bandai Namco é uma potência tanto nos arcades quanto nos consoles. A empresa é a guardiã de Pac-Man, um dos maiores ícones da cultura pop. Além disso, ela se tornou a principal publicadora de jogos baseados em animes populares, como Dragon Ball, Naruto e One Piece, e é responsável por franquias de luta aclamadas como Tekken e Soulcalibur.",
+    "data_criacao": 2006,
+    "fundadores": ["Fusão da Bandai e Namco"],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.bandainamcoent.com/",
+    "cores": {
+      "principal": "#E30413",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Pac-Man",
+        "descricao": "Um ícone dos arcades que se tornou um fenômeno cultural mundial.",
+        "ano": 1980
+      },
+      {
+        "nome": "Tekken 7",
+        "descricao": "Um dos jogos de luta 3D mais populares e competitivos do mundo.",
+        "ano": 2015
+      }
+    ]
+  },
+  {
+    "empresa": "Atari",
+    "revolucao": "A Atari foi a empresa que efetivamente criou a indústria de videogames domésticos com o Atari 2600. Ela transformou o videogame de uma novidade de arcade em um item essencial em lares de todo o mundo. Jogos como Pong e Space Invaders se tornaram fenômenos culturais. Embora seu domínio tenha terminado no 'crash de 1983', o nome Atari é para sempre sinônimo do início da era dos videogames.",
+    "data_criacao": 1972,
+    "fundadores": ["Nolan Bushnell", "Ted Dabney"],
+    "sede": "Nova Iorque, Nova Iorque, EUA",
+    "website": "https://atari.com/",
+    "cores": {
+      "principal": "#CF0A2C",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Pong",
+        "descricao": "Um dos primeiros jogos de arcade de sucesso comercial, ajudou a estabelecer a indústria.",
+        "ano": 1972
+      },
+      {
+        "nome": "Asteroids",
+        "descricao": "Um shooter de vetores que se tornou um dos jogos mais populares e influentes da era de ouro dos arcades.",
+        "ano": 1979
+      }
+    ]
+  },
+  {
+    "empresa": "Unity Technologies",
+    "revolucao": "Democratizou o desenvolvimento de jogos ao fornecer uma engine 3D acessível e robusta, popularizando o mercado independente (indie) e o desenvolvimento multiplataforma.",
+    "data_criacao": 2004,
+    "fundadores": [
+      "David Helgason",
+      "Nicholas Francis",
+      "Joachim Ante"
+    ],
+    "sede": "São Francisco, Califórnia, EUA",
+    "website": "https://unity.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Ori and the Blind Forest",
+        "descricao": "Um dos jogos mais conhecidos feitos na Unity.",
+        "ano": 2015
+      },
+      {
+        "nome": "Cuphead",
+        "descricao": "Um dos jogos mais conhecidos feitos na Unity.",
+        "ano": 2017
+      },
+      {
+        "nome": "Genshin Impact",
+        "descricao": "Um dos jogos mais conhecidos feitos na Unity.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Roblox Corporation",
+    "revolucao": "Criou uma plataforma massiva de conteúdo gerado pelo usuário (UGC) e um modelo de metaverso pioneiro, capacitando milhões de criadores a desenvolver, monetizar e publicar experiências interativas.",
+    "data_criacao": 2004,
+    "fundadores": [
+      "David Baszucki",
+      "Erik Cassel"
+    ],
+    "sede": "San Mateo, Califórnia, EUA",
+    "website": "https://www.roblox.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Adopt Me!",
+        "descricao": "Um dos jogos mais conhecidos feitos na Roblox.",
+        "ano": 2017
+      },
+      {
+        "nome": "Tower of Hell",
+        "descricao": "Um dos jogos mais conhecidos feitos na Roblox.",
+        "ano": 2018
+      },
+      {
+        "nome": "Brookhaven",
+        "descricao": "Um dos jogos mais conhecidos feitos na Roblox.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Telltale Games",
+    "revolucao": "Revolucionou o formato de aventura gráfica e introduziu o modelo de desenvolvimento e distribuição narrativa episódica, com foco em escolhas morais de alto impacto.",
+    "data_criacao": 2004,
+    "fundadores": [
+      "Kevin Bruner",
+      "Dan Connors",
+      "Troy Molander"
+    ],
+    "sede": "San Rafael, Califórnia, EUA",
+    "website": "https://telltale.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "The Walking Dead: Season One",
+        "descricao": "Jogo episódico aclamado que definiu o estilo do estúdio.",
+        "ano": 2012
+      },
+      {
+        "nome": "The Wolf Among Us",
+        "descricao": "Jogo episódico aclamado que definiu o estilo do estúdio.",
+        "ano": 2013
+      },
+      {
+        "nome": "Tales from the Borderlands",
+        "descricao": "Jogo episódico aclamado que definiu o estilo do estúdio.",
+        "ano": 2014
+      }
+    ]
+  },
+  {
+    "empresa": "Paradox Interactive",
+    "revolucao": "Dominou o nicho de 'Grand Strategy Games' (GSG), criando motores de jogo complexos (Clausewitz Engine) que suportam simulações históricas profundas e um modelo de DLCs de longo prazo.",
+    "data_criacao": 1999,
+    "fundadores": [
+      "Tomas Franzén",
+      "Ebba Ljungerud"
+    ],
+    "sede": "Estocolmo, Suécia",
+    "website": "https://www.paradoxinteractive.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Crusader Kings II",
+        "descricao": "Um dos principais jogos de grande estratégia do estúdio.",
+        "ano": 2012
+      },
+      {
+        "nome": "Europa Universalis IV",
+        "descricao": "Um dos principais jogos de grande estratégia do estúdio.",
+        "ano": 2013
+      },
+      {
+        "nome": "Stellaris",
+        "descricao": "Um dos principais jogos de grande estratégia do estúdio.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Remedy Entertainment",
+    "revolucao": "Pioneira na narrativa cinematográfica complexa e na integração de sequências de live-action em jogos, desenvolvendo tecnologias proprietárias (Northlight Engine) para manipulação temporal e física avançada.",
+    "data_criacao": 1995,
+    "fundadores": [
+      "Sam Lake",
+      "Petri Järvilehto",
+      "Markus Mäki",
+      "Tero Virtala",
+      "outros"
+    ],
+    "sede": "Espoo, Finlândia",
+    "website": "https://www.remedygames.com",
+    "cores": {
+      "principal": "#FFFFFF",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Max Payne",
+        "descricao": "Jogo icônico conhecido por sua narrativa e mecânica de 'bullet time'.",
+        "ano": 2001
+      },
+      {
+        "nome": "Quantum Break",
+        "descricao": "Jogo icônico conhecido por sua narrativa e mecânica de 'bullet time'.",
+        "ano": 2016
+      },
+      {
+        "nome": "Control",
+        "descricao": "Jogo icônico conhecido por sua narrativa e mecânica de 'bullet time'.",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "empresa": "Kojima Productions",
+    "revolucao": "Representa o modelo de desenvolvimento 'auteur', onde a visão singular de um criador (Hideo Kojima) impulsiona inovações de design e narrativas complexas que desafiam as convenções de gênero.",
+    "data_criacao": 2015,
+    "fundadores": [
+      "Hideo Kojima"
+    ],
+    "sede": "Tóquio, Japão",
+    "website": "https://www.kojimaproductions.jp",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Death Stranding",
+        "descricao": "Primeiro jogo do estúdio independente, conhecido por seu conceito único.",
+        "ano": 2019
+      }
+    ]
+  },
+  {
+    "empresa": "Insomniac Games",
+    "revolucao": "Especializada em desenvolvimento de jogos de ação de alto polimento e ritmo rápido, notável por sua eficiência técnica e iteração rápida de IPs, otimizando o uso de hardware de console exclusivo.",
+    "data_criacao": 1994,
+    "fundadores": [
+      "Ted Price"
+    ],
+    "sede": "Burbank, Califórnia, EUA",
+    "website": "https://insomniac.games",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Ratchet & Clank: Up Your Arsenal",
+        "descricao": "Um dos títulos mais aclamados da franquia.",
+        "ano": 2004
+      },
+      {
+        "nome": "Marvel's Spider-Man",
+        "descricao": "Um dos títulos mais aclamados da franquia.",
+        "ano": 2018
+      },
+      {
+        "nome": "Ratchet & Clank: Rift Apart",
+        "descricao": "Um dos títulos mais aclamados da franquia.",
+        "ano": 2021
+      }
+    ]
+  },
+  {
+    "empresa": "Supercell",
+    "revolucao": "Definiu o padrão de desenvolvimento 'hit-driven' para jogos mobile Free-to-Play, focando em poucos títulos de altíssima qualidade e monetização eficiente baseada em estratégia e colecionismo.",
+    "data_criacao": 2010,
+    "fundadores": [
+      "Ilkka Paananen",
+      "Mikko Kodisoja"
+    ],
+    "sede": "Helsinque, Finlândia",
+    "website": "https://supercell.com",
+    "cores": {
+      "principal": "#FFA500",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Clash of Clans",
+        "descricao": "Jogo de estratégia mobile de enorme sucesso.",
+        "ano": 2012
+      },
+      {
+        "nome": "Hay Day",
+        "descricao": "Jogo de estratégia mobile de enorme sucesso.",
+        "ano": 2012
+      },
+      {
+        "nome": "Clash Royale",
+        "descricao": "Jogo de estratégia mobile de enorme sucesso.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Media Molecule",
+    "revolucao": "Focada em ferramentas de criação e empoderamento do usuário, lançando plataformas que permitem aos jogadores criar, compartilhar e jogar seu próprio conteúdo, transcendendo a função de mero consumidor.",
+    "data_criacao": 2006,
+    "fundadores": [
+      "Mark Healey",
+      "Alex Evans",
+      "Kareem Ettouney",
+      "Dave Smith"
+    ],
+    "sede": "Guildford, Reino Unido",
+    "website": "https://www.mediamolecule.com",
+    "cores": {
+      "principal": "#800080",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "LittleBigPlanet",
+        "descricao": "Jogo focado na criatividade e compartilhamento de conteúdo.",
+        "ano": 2008
+      },
+      {
+        "nome": "Tearaway",
+        "descricao": "Jogo focado na criatividade e compartilhamento de conteúdo.",
+        "ano": 2013
+      },
+      {
+        "nome": "Dreams",
+        "descricao": "Jogo focado na criatividade e compartilhamento de conteúdo.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Crytek",
+    "revolucao": "Conhecida por ultrapassar os limites da fidelidade gráfica com o CryEngine, estabelecendo novos benchmarks visuais e de física em tempo real para a indústria de jogos de PC.",
+    "data_criacao": 1999,
+    "fundadores": [
+      "Cevat Yerli",
+      "Avni Yerli",
+      "Faruk Yerli"
+    ],
+    "sede": "Frankfurt, Alemanha",
+    "website": "https://www.crytek.com",
+    "cores": {
+      "principal": "#808080",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Far Cry",
+        "descricao": "Jogo que estabeleceu um novo padrão gráfico na época.",
+        "ano": 2004
+      },
+      {
+        "nome": "Crysis",
+        "descricao": "Jogo que estabeleceu um novo padrão gráfico na época.",
+        "ano": 2007
+      },
+      {
+        "nome": "Hunt: Showdown",
+        "descricao": "Jogo que estabeleceu um novo padrão gráfico na época.",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "empresa": "Harmonix",
+    "revolucao": "Definiu o gênero de jogos de ritmo baseados em periféricos, transformando a experiência de jogar em um evento social focado em simulação musical e performance em grupo.",
+    "data_criacao": 1995,
+    "fundadores": [
+      "Alex Rigopulos",
+      "Eran Egozy"
+    ],
+    "sede": "Cambridge, Massachusetts, EUA",
+    "website": "https://www.harmonixmusic.com",
+    "cores": {
+      "principal": "#FFA500",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Guitar Hero",
+        "descricao": "Pioneiro no gênero de jogos de ritmo com periféricos.",
+        "ano": 2005
+      },
+      {
+        "nome": "Rock Band",
+        "descricao": "Pioneiro no gênero de jogos de ritmo com periféricos.",
+        "ano": 2007
+      },
+      {
+        "nome": "Dance Central",
+        "descricao": "Pioneiro no gênero de jogos de ritmo com periféricos.",
+        "ano": 2010
+      }
+    ]
+  },
+  {
+    "empresa": "BioWare",
+    "revolucao": "Revolucionou os RPGs ocidentais ao incorporar sistemas complexos de escolhas narrativas ramificadas, desenvolvimento profundo de personagens e um foco intenso na moralidade do jogador.",
+    "data_criacao": 1995,
+    "fundadores": [
+      "Ray Muzyka",
+      "Greg Zeschuk",
+      "Augustine Yip"
+    ],
+    "sede": "Edmonton, Alberta, Canadá",
+    "website": "https://www.bioware.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Star Wars: Knights of the Old Republic",
+        "descricao": "RPG aclamado por sua narrativa e sistema de escolhas.",
+        "ano": 2003
+      },
+      {
+        "nome": "Mass Effect",
+        "descricao": "RPG aclamado por sua narrativa e sistema de escolhas.",
+        "ano": 2007
+      },
+      {
+        "nome": "Dragon Age: Origins",
+        "descricao": "RPG aclamado por sua narrativa e sistema de escolhas.",
+        "ano": 2009
+      }
+    ]
+  },
+  {
+    "empresa": "Digital Extremes",
+    "revolucao": "Lançou um dos primeiros e mais bem-sucedidos modelos de 'looter shooter' Free-to-Play, Warframe, demonstrando a viabilidade de serviços de longo prazo orientados pela comunidade e atualizações constantes de conteúdo.",
+    "data_criacao": 1993,
+    "fundadores": [
+      "James Schmalz"
+    ],
+    "sede": "London, Ontario, Canadá",
+    "website": "https://www.digitalextremes.com",
+    "cores": {
+      "principal": "#C0C0C0",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Unreal Tournament",
+        "descricao": "Jogo de tiro em arena co-desenvolvido pelo estúdio.",
+        "ano": 1999
+      },
+      {
+        "nome": "Dark Sector",
+        "descricao": "Jogo de tiro em arena co-desenvolvido pelo estúdio.",
+        "ano": 2008
+      },
+      {
+        "nome": "Warframe",
+        "descricao": "Jogo de tiro em arena co-desenvolvido pelo estúdio.",
+        "ano": 2013
+      }
+    ]
+  },
+  {
+    "empresa": "Asobo Studio",
+    "revolucao": "Demonstrou que narrativas baseadas em IPs originais e focadas em temas históricos ou emocionais podem alcançar alta fidelidade técnica e sucesso crítico, desafiando a dependência de grandes franquias.",
+    "data_criacao": 2002,
+    "fundadores": [
+      "Quatro ex-funcionários da Ubisoft"
+    ],
+    "sede": "Bordeaux, França",
+    "website": "https://www.asobostudio.com",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "A Plague Tale: Innocence",
+        "descricao": "Jogo de aventura e furtividade com forte foco narrativo.",
+        "ano": 2019
+      },
+      {
+        "nome": "A Plague Tale: Requiem",
+        "descricao": "Jogo de aventura e furtividade com forte foco narrativo.",
+        "ano": 2022
+      }
+    ]
+  },
+  {
+    "empresa": "Piranha Bytes",
+    "revolucao": "Manteve um foco único em RPGs de mundo aberto não-linear com foco intenso em imersão, dificuldade e consequências das escolhas, influenciando o design de RPGs europeus de nicho.",
+    "data_criacao": 1997,
+    "fundadores": [
+      "Alex Brüggemann",
+      "Mike Hoge",
+      "Stephan Odenthal",
+      "Tom Putzki"
+    ],
+    "sede": "Essen, Alemanha",
+    "website": "https://www.piranha-bytes.com",
+    "cores": {
+      "principal": "#A52A2A",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Gothic",
+        "descricao": "RPG de mundo aberto conhecido por sua dificuldade e imersão.",
+        "ano": 2001
+      },
+      {
+        "nome": "Risen",
+        "descricao": "RPG de mundo aberto conhecido por sua dificuldade e imersão.",
+        "ano": 2009
+      },
+      {
+        "nome": "ELEX",
+        "descricao": "RPG de mundo aberto conhecido por sua dificuldade e imersão.",
+        "ano": 2017
+      }
+    ]
+  },
+  {
+    "empresa": "PopCap Games",
+    "revolucao": "Foi uma força motriz por trás do boom dos jogos casuais (casual gaming) e dos jogos de quebra-cabeça viciantes, estabelecendo um modelo de distribuição digital amplamente replicado.",
+    "data_criacao": 2000,
+    "fundadores": [
+      "John Vechey",
+      "Brian Fiete",
+      "Jason Kapalka"
+    ],
+    "sede": "Seattle, Washington, EUA",
+    "website": "https://www.ea.com/studios/popcap",
+    "cores": {
+      "principal": "#FFA500",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Bejeweled",
+        "descricao": "Um dos jogos casuais mais influentes de todos os tempos.",
+        "ano": 2001
+      },
+      {
+        "nome": "Zuma",
+        "descricao": "Um dos jogos casuais mais influentes de todos os tempos.",
+        "ano": 2003
+      },
+      {
+        "nome": "Plants vs. Zombies",
+        "descricao": "Um dos jogos casuais mais influentes de todos os tempos.",
+        "ano": 2009
+      }
+    ]
+  },
+  {
+    "empresa": "NetEase Games",
+    "revolucao": "Dominante no mercado asiático, impulsionou a adoção de jogos mobile de grande escala e estabeleceu parcerias estratégicas globais, focando na tecnologia de nuvem e na expansão do desenvolvimento de IPs terceirizados.",
+    "data_criacao": 2001,
+    "fundadores": [
+      "William Ding Lei (empresa controladora)"
+    ],
+    "sede": "Guangzhou, China",
+    "website": "https://www.neteasegames.com",
+    "cores": {
+      "principal": "#FF0000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Fantasy Westward Journey Online",
+        "descricao": "Um dos jogos mais populares da empresa no mercado asiático.",
+        "ano": 2001
+      },
+      {
+        "nome": "Identity V",
+        "descricao": "Um dos jogos mais populares da empresa no mercado asiático.",
+        "ano": 2018
+      },
+      {
+        "nome": "Onmyoji",
+        "descricao": "Um dos jogos mais populares da empresa no mercado asiático.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Infinity Ward",
+    "revolucao": "Definiu o template do moderno First-Person Shooter militar (Call of Duty 4: Modern Warfare), estabelecendo padrões de progressão, design de mapas e cinemática que influenciaram o gênero por mais de uma década.",
+    "data_criacao": 2002,
+    "fundadores": [
+      "Vince Zampella",
+      "Grant Collier",
+      "Jason West"
+    ],
+    "sede": "Los Angeles, Califórnia, EUA",
+    "website": "https://www.infinityward.com",
+    "cores": {
+      "principal": "#008000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Call of Duty",
+        "descricao": "Jogo que deu início a uma das maiores franquias de FPS.",
+        "ano": 2003
+      },
+      {
+        "nome": "Call of Duty 4: Modern Warfare",
+        "descricao": "Jogo que deu início a uma das maiores franquias de FPS.",
+        "ano": 2007
+      },
+      {
+        "nome": "Call of Duty: Warzone",
+        "descricao": "Jogo que deu início a uma das maiores franquias de FPS.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Behaviour Interactive",
+    "revolucao": "Liderou a inovação no nicho de horror multiplayer assimétrico, provando a viabilidade de jogos de nicho com atualizações constantes e foco em 'cross-play' massivo.",
+    "data_criacao": 1992,
+    "fundadores": [
+      "Rémi Racine"
+    ],
+    "sede": "Montreal, Quebec, Canadá",
+    "website": "https://www.bhvr.com",
+    "cores": {
+      "principal": "#FFA500",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Dead by Daylight",
+        "descricao": "Principal sucesso do estúdio, definindo o gênero de horror assimétrico.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Frontier Developments",
+    "revolucao": "Conhecida por sua tecnologia proprietária de 'Cobra Engine', que permite mundos de jogos massivos e detalhados com foco em gerenciamento de parques e simulações espaciais complexas.",
+    "data_criacao": 1994,
+    "fundadores": [
+      "David Braben"
+    ],
+    "sede": "Cambridge, Reino Unido",
+    "website": "https://www.frontier.co.uk",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Elite Dangerous",
+        "descricao": "Jogo de simulação espacial conhecido por sua escala e complexidade.",
+        "ano": 2014
+      },
+      {
+        "nome": "Planet Coaster",
+        "descricao": "Jogo de simulação espacial conhecido por sua escala e complexidade.",
+        "ano": 2016
+      },
+      {
+        "nome": "Jurassic World Evolution",
+        "descricao": "Jogo de simulação espacial conhecido por sua escala e complexidade.",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "empresa": "Bungie",
+    "revolucao": "Estúdio fundamental na popularização de jogos FPS em consoles e pioneiro no modelo de jogos de serviço (live service) em larga escala.",
+    "data_criacao": 1991,
+    "fundadores": [
+      "Alex Seropian",
+      "Jason Jones"
+    ],
+    "sede": "Bellevue, Washington, EUA",
+    "website": "https://www.bungie.net",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Halo: Combat Evolved",
+        "descricao": "Estabeleceu o esquema de controle de dois joysticks para FPS em consoles, tornando o gênero acessível a um público massivo de console.",
+        "ano": 2001
+      }
+    ]
+  },
+  {
+    "empresa": "Firaxis Games",
+    "revolucao": "Estúdio especializado em jogos de estratégia, responsável por manter e modernizar a série Civilization e reviver o gênero tático por turnos.",
+    "data_criacao": 1996,
+    "fundadores": [
+      "Sid Meier",
+      "Jeff Briggs",
+      "Brian Reynolds"
+    ],
+    "sede": "Sparks, Maryland, EUA",
+    "website": "https://firaxis.com",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "XCOM: Enemy Unknown",
+        "descricao": "Revitalizou o gênero de estratégia tática por turnos em consoles e PC, introduzindo elementos de permadeath e tensão que influenciaram o design tático moderno.",
+        "ano": 2012
+      }
+    ]
+  },
+  {
+    "empresa": "Arkane Studios",
+    "revolucao": "Estúdio francês/americano especialista no subgênero 'Immersive Sim', priorizando a agência do jogador, design de nível complexo e múltiplos caminhos.",
+    "data_criacao": 1999,
+    "fundadores": [
+      "Raphaël Colantonio"
+    ],
+    "sede": "Lyon, França e Austin, Texas, EUA",
+    "website": "https://arkane-studios.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFD700"
+    },
+    "jogos": [
+      {
+        "nome": "Dishonored",
+        "descricao": "Definiu o padrão moderno de 'Immersive Sim', oferecendo grande liberdade ao jogador para completar objetivos usando uma mistura de stealth, combate e poderes sobrenaturais.",
+        "ano": 2012
+      }
+    ]
+  },
+  {
+    "empresa": "Sucker Punch Productions",
+    "revolucao": "Estúdio conhecido por criar mundos abertos visualmente impressionantes e jogos de stealth/ação focados em movimento rápido e polido.",
+    "data_criacao": 1997,
+    "fundadores": [
+      "Brian Fleming",
+      "Bruce Oberg",
+      "Chris Zimmerman",
+      "Darren Ladd",
+      "Tom Dusenberry"
+    ],
+    "sede": "Bellevue, Washington, EUA",
+    "website": "https://www.suckerpunch.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Ghost of Tsushima",
+        "descricao": "Inovou na apresentação de mundo aberto, focando em minimalismo de UI ('Guiding Wind') e combate cinematográfico inspirado em filmes de samurai, eliminando distrações visuais.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Obsidian Entertainment",
+    "revolucao": "Estúdio especializado em RPGs complexos de escolha e consequência, conhecido por resgatar a profundidade dos RPGs clássicos.",
+    "data_criacao": 2003,
+    "fundadores": [
+      "Feargus Urquhart",
+      "Chris Avellone",
+      "Chris Jones",
+      "Chris Parker",
+      "Darren Monahan"
+    ],
+    "sede": "Irvine, Califórnia, EUA",
+    "website": "https://obsidian.net",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#808080"
+    },
+    "jogos": [
+      {
+        "nome": "Fallout: New Vegas",
+        "descricao": "Demonstrou maestria em design de narrativa ramificada, criando um mundo aberto onde as escolhas do jogador levam a finais drasticamente diferentes, reintroduzindo a complexidade de RPGs de mesa em larga escala.",
+        "ano": 2010
+      }
+    ]
+  },
+  {
+    "empresa": "Playdead",
+    "revolucao": "Estúdio independente dinamarquês conhecido por seus jogos de plataforma 2D atmosféricos, minimalistas e aterrorizantes, redefinindo a narrativa visual no espaço indie.",
+    "data_criacao": 2006,
+    "fundadores": [
+      "Arnt Jensen",
+      "Dino Patti"
+    ],
+    "sede": "Copenhague, Dinamarca",
+    "website": "https://playdead.com",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Limbo",
+        "descricao": "Popularizou o estilo de arte 'silhueta noir' e a narrativa ambiental silenciosa no mercado indie, influenciando esteticamente centenas de jogos 2D subsequentes.",
+        "ano": 2010
+      }
+    ]
+  },
+  {
+    "empresa": "2K Games",
+    "revolucao": "Como uma publicadora de grande porte, a 2K Games se especializou em financiar e distribuir jogos com narrativas ambiciosas e mundos imersivos, como BioShock e Borderlands. A empresa provou que é possível construir franquias de sucesso que não se baseiam em ciclos anuais, mas sim em lançamentos de alta qualidade e com forte identidade, apostando na visão de estúdios talentosos como a Irrational Games e a Gearbox Software.",
+    "data_criacao": 2005,
+    "fundadores": [
+      "Christoph Hartmann",
+      "David Ismailer",
+      "Kelley Gilmore"
+    ],
+    "sede": "Novato, Califórnia, EUA",
+    "website": "https://www.2k.com/",
+    "cores": {
+      "principal": "#C20000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "BioShock",
+        "descricao": "Um marco na narrativa ambiental e na crítica filosófica em jogos de tiro em primeira pessoa.",
+        "ano": 2007
+      },
+      {
+        "nome": "Borderlands 2",
+        "descricao": "Aperfeiçoou a fórmula do 'looter-shooter' com humor ácido e um estilo de arte cel-shaded icônico.",
+        "ano": 2012
+      }
+    ]
+  },
+  {
+    "empresa": "Devolver Digital",
+    "revolucao": "A Devolver Digital redefiniu o papel de uma publicadora de jogos independentes. Com um marketing irreverente e uma curadoria impecável, eles se tornaram um selo de qualidade, impulsionando jogos inovadores e muitas vezes excêntricos como Hotline Miami e Gris. Eles provaram que o sucesso no mercado indie depende tanto de uma boa curadoria quanto de dar liberdade total aos desenvolvedores.",
+    "data_criacao": 2009,
+    "fundadores": [
+      "Mike Wilson",
+      "Harry Miller",
+      "Rick Stults"
+    ],
+    "sede": "Austin, Texas, EUA",
+    "website": "https://www.devolverdigital.com/",
+    "cores": {
+      "principal": "#E53333",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Hotline Miami",
+        "descricao": "Um jogo de ação top-down ultraviolento que se tornou um fenômeno cult e impulsionou a cena synthwave.",
+        "ano": 2012
+      },
+      {
+        "nome": "Gris",
+        "descricao": "Um jogo de plataforma aclamado por sua arte deslumbrante e abordagem sutil de temas como luto e esperança.",
+        "ano": 2018
+      }
+    ]
+  },
+  {
+    "empresa": "Gearbox Software",
+    "revolucao": "A Gearbox é mestre em fundir gêneros. Com Borderlands, eles criaram e popularizaram o 'looter-shooter', uma mistura viciante de tiro em primeira pessoa com a progressão e o loot de um RPG. O estilo de arte cel-shaded e o humor anárquico da série criaram uma identidade única que influenciou muitos outros jogos a adotarem visuais mais estilizados e abordagens menos sérias.",
+    "data_criacao": 1999,
+    "fundadores": [
+      "Randy Pitchford",
+      "Brian Martel",
+      "Stephen Bahl",
+      "Landon Montgomery"
+    ],
+    "sede": "Frisco, Texas, EUA",
+    "website": "https://www.gearboxsoftware.com/",
+    "cores": {
+      "principal": "#F29100",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Borderlands",
+        "descricao": "O jogo que estabeleceu o gênero looter-shooter, combinando FPS com elementos de RPG e loot infinito.",
+        "ano": 2009
+      },
+      {
+        "nome": "Brothers in Arms: Road to Hill 30",
+        "descricao": "Um FPS tático da Segunda Guerra Mundial elogiado por seu realismo e foco na história de um esquadrão.",
+        "ano": 2005
+      }
+    ]
+  },
+  {
+    "empresa": "Tencent Games",
+    "revolucao": "Como a maior empresa de videogames do mundo em receita, a Tencent revolucionou a indústria através de investimentos estratégicos e do domínio do mercado mobile. Com jogos como PUBG Mobile e Honor of Kings, eles aperfeiçoaram o modelo de 'jogo como serviço' para dispositivos móveis em uma escala global, demonstrando o poder de adaptar experiências de PC para o público massivo de smartphones.",
+    "data_criacao": 2003,
+    "fundadores": [
+      "Ma Huateng (Tencent Holdings)"
+    ],
+    "sede": "Shenzhen, China",
+    "website": "https://www.tencentgames.com/",
+    "cores": {
+      "principal": "#0078F2",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "PUBG Mobile",
+        "descricao": "Adaptou com sucesso o gênero Battle Royale para celulares, tornando-se um fenômeno global.",
+        "ano": 2018
+      },
+      {
+        "nome": "Honor of Kings",
+        "descricao": "Um dos MOBAs mobile mais jogados e lucrativos do mundo, dominando o mercado asiático.",
+        "ano": 2015
+      }
+    ]
+  },
+  {
+    "empresa": "Bethesda Game Studios",
+    "revolucao": "A Bethesda popularizou o RPG de mundo aberto em primeira pessoa para o público mainstream. Com as séries The Elder Scrolls e Fallout, eles criaram mundos vastos e reativos que incentivam a exploração livre e a criação de histórias pessoais. A abertura de seus jogos para a comunidade de 'modding' também foi crucial, garantindo uma longevidade quase infinita para seus títulos.",
+    "data_criacao": 2001,
+    "fundadores": [
+      "Todd Howard (Diretor e Produtor Executivo)"
+    ],
+    "sede": "Rockville, Maryland, EUA",
+    "website": "https://bethesdagamestudios.com/",
+    "cores": {
+      "principal": "#3A3A3A",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "The Elder Scrolls V: Skyrim",
+        "descricao": "Um fenômeno cultural que definiu os RPGs de mundo aberto por uma década e foi lançado em quase todas as plataformas.",
+        "ano": 2011
+      },
+      {
+        "nome": "Fallout 3",
+        "descricao": "Revitalizou a franquia Fallout, transportando sua complexidade de RPG para uma perspectiva 3D imersiva.",
+        "ano": 2008
+      }
+    ]
+  },
+  {
+    "empresa": "Take-Two Interactive",
+    "revolucao": "Como a empresa-mãe da Rockstar Games e da 2K Games, a Take-Two Interactive aperfeiçoou o modelo de negócios de possuir estúdios de ponta e dar-lhes tempo e recursos para criar blockbusters que definem gerações. A estratégia da empresa de focar em qualidade sobre quantidade resultou em algumas das franquias mais bem-sucedidas e aclamadas pela crítica na história, como Grand Theft Auto, Red Dead Redemption e BioShock.",
+    "data_criacao": 1993,
+    "fundadores": [
+      "Ryan Brant"
+    ],
+    "sede": "Nova Iorque, Nova Iorque, EUA",
+    "website": "https://www.take2games.com/",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Grand Theft Auto V",
+        "descricao": "Um dos produtos de entretenimento mais lucrativos de todos os tempos, com um mundo online persistente.",
+        "ano": 2013
+      },
+      {
+        "nome": "NBA 2K",
+        "descricao": "A franquia de simulação de basquete dominante, conhecida por seus gráficos e jogabilidade.",
+        "ano": 1999
+      }
+    ]
+  },
+  {
+    "empresa": "Atlus",
+    "revolucao": "A Atlus se especializou em JRPGs com temas maduros e uma identidade visual extremamente estilizada, principalmente com as séries Shin Megami Tensei e Persona. A empresa provou que há um grande público para RPGs que misturam exploração de masmorras, simulação social e narrativas filosóficas complexas, influenciando a estética e o design de muitos outros jogos do gênero.",
+    "data_criacao": 1986,
+    "fundadores": [
+      "Naoya Niida",
+      "Kouji Okada",
+      "Kazunari Suzuki"
+    ],
+    "sede": "Tóquio, Japão",
+    "website": "https://atlus.com/",
+    "cores": {
+      "principal": "#E4002B",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Persona 5 Royal",
+        "descricao": "Um JRPG aclamado que combina simulação de vida escolar com combate por turnos e uma arte icônica.",
+        "ano": 2019
+      },
+      {
+        "nome": "Shin Megami Tensei V",
+        "descricao": "Um RPG desafiador conhecido por seu sistema de recrutamento de demônios e temas sombrios.",
+        "ano": 2021
+      }
+    ]
+  },
+  {
+    "empresa": "Creative Assembly",
+    "revolucao": "A Creative Assembly é a mestre indiscutível dos jogos de estratégia em grande escala. Com a série Total War, eles criaram uma fórmula única que combina estratégia por turnos em um mapa de campanha com batalhas táticas em tempo real envolvendo milhares de unidades. Eles também demonstraram sua versatilidade com o aclamado jogo de terror Alien: Isolation, provando sua excelência em design de IA e atmosfera.",
+    "data_criacao": 1987,
+    "fundadores": [
+      "Tim Ansell"
+    ],
+    "sede": "Horsham, Inglaterra",
+    "website": "https://www.creative-assembly.com/",
+    "cores": {
+      "principal": "#B22222",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Total War: Warhammer II",
+        "descricao": "Considerado um dos melhores jogos de estratégia, combinando o universo Warhammer com a fórmula Total War.",
+        "ano": 2017
+      },
+      {
+        "nome": "Alien: Isolation",
+        "descricao": "Um marco no gênero de survival horror, famoso por sua IA imprevisível e atmosfera aterrorizante.",
+        "ano": 2014
+      }
+    ]
+  },
+  {
+    "empresa": "Moon Studios",
+    "revolucao": "Como um estúdio 'virtual' com desenvolvedores espalhados pelo mundo, a Moon Studios provou que uma equipe distribuída pode criar jogos com um nível de polimento e beleza artística excepcionais. Com a série Ori, eles revitalizaram o gênero Metroidvania, combinando plataformas precisas, uma direção de arte deslumbrante e narrativas emocionantes contadas sem uma única linha de diálogo.",
+    "data_criacao": 2010,
+    "fundadores": [
+      "Thomas Mahler",
+      "Gennadiy Korol"
+    ],
+    "sede": "Viena, Áustria (Sede principal)",
+    "website": "https://www.moongamestudios.com/",
+    "cores": {
+      "principal": "#4682B4",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Ori and the Blind Forest",
+        "descricao": "Um Metroidvania aclamado por sua arte, trilha sonora e jogabilidade fluida.",
+        "ano": 2015
+      },
+      {
+        "nome": "Ori and the Will of the Wisps",
+        "descricao": "A sequência expandiu o combate e a exploração, sendo considerada uma obra-prima do gênero.",
+        "ano": 2020
+      }
+    ]
+  },
+  {
+    "empresa": "Psyonix",
+    "revolucao": "A Psyonix criou um fenômeno com Rocket League, um jogo que fundiu carros e futebol em um esporte eletrônico único, baseado puramente em habilidade e física. O sucesso do jogo demonstrou o poder de uma ideia simples e bem executada. Eles foram pioneiros na implementação de cross-play entre todas as principais plataformas, ajudando a quebrar as barreiras entre os ecossistemas de consoles e PC.",
+    "data_criacao": 2000,
+    "fundadores": [
+      "Dave Hagewood"
+    ],
+    "sede": "San Diego, Califórnia, EUA",
+    "website": "https://www.psyonix.com/",
+    "cores": {
+      "principal": "#0077C8",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Rocket League",
+        "descricao": "Um esporte eletrônico único que se tornou um sucesso global, misturando carros e futebol.",
+        "ano": 2015
+      }
+    ]
+  },
+  {
+    "empresa": "Hello Games",
+    "revolucao": "A Hello Games é o maior exemplo de redenção na história dos videogames. Após o lançamento controverso de No Man's Sky, o pequeno estúdio se recusou a abandonar o jogo e, através de anos de atualizações gratuitas e massivas, transformou-o em uma experiência de exploração espacial vasta e amada. Eles provaram que o compromisso a longo prazo e a comunicação honesta podem reconstruir a confiança da comunidade e transformar um fracasso em um sucesso duradouro.",
+    "data_criacao": 2008,
+    "fundadores": [
+      "Sean Murray",
+      "Grant Duncan"
+    ],
+    "sede": "Guildford, Inglaterra",
+    "website": "https://hellogames.org/",
+    "cores": {
+      "principal": "#F37321",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "No Man's Sky",
+        "descricao": "Um universo gerado proceduralmente que se tornou um exemplo de redenção e suporte pós-lançamento.",
+        "ano": 2016
+      }
+    ]
+  },
+  {
+    "empresa": "Double Fine Productions",
+    "revolucao": "Fundada por Tim Schafer, a Double Fine é conhecida por seus jogos com humor peculiar, criatividade sem limites e narrativas memoráveis. Com jogos como Psychonauts, eles mantiveram vivo o espírito dos jogos de aventura clássicos. A empresa também foi pioneira no uso de financiamento coletivo em larga escala com o 'Double Fine Adventure' (Broken Age), revitalizando o interesse do público e de investidores no gênero.",
+    "data_criacao": 2000,
+    "fundadores": [
+      "Tim Schafer"
+    ],
+    "sede": "San Francisco, Califórnia, EUA",
+    "website": "https://www.doublefine.com/",
+    "cores": {
+      "principal": "#7D6B5C",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "Psychonauts 2",
+        "descricao": "Um jogo de plataforma aclamado por sua criatividade, humor e abordagem de temas de saúde mental.",
+        "ano": 2021
+      },
+      {
+        "nome": "Broken Age",
+        "descricao": "Um jogo de aventura que quebrou recordes de financiamento coletivo e ajudou a reviver o gênero.",
+        "ano": 2014
+      }
+    ]
+  },
+  {
+    "empresa": "Codemasters",
+    "revolucao": "A Codemasters é uma lenda no gênero de jogos de corrida. Por décadas, eles estabeleceram o padrão para simulação e jogabilidade arcade, desde a série Colin McRae Rally/DiRT até os jogos oficiais da Fórmula 1. A empresa desenvolveu tecnologias de física e manuseio de veículos (EGO Engine) que são referência na indústria, oferecendo experiências de corrida autênticas e emocionantes.",
+    "data_criacao": 1986,
+    "fundadores": [
+      "David Darling",
+      "Richard Darling"
+    ],
+    "sede": "Southam, Inglaterra",
+    "website": "https://www.codemasters.com/",
+    "cores": {
+      "principal": "#000000",
+      "texto": "#FFFFFF"
+    },
+    "jogos": [
+      {
+        "nome": "DiRT Rally 2.0",
+        "descricao": "Considerado um dos simuladores de rally mais realistas e desafiadores já feitos.",
+        "ano": 2019
+      },
+      {
+        "nome": "F1 23",
+        "descricao": "O jogo oficial da Fórmula 1, aclamado por sua jogabilidade e modo carreira.",
+        "ano": 2023
+      }
+    ]
+  },
+  {
+    "empresa": "LucasArts",
+    "revolucao": "Nos anos 90, a LucasArts foi a rainha dos jogos de aventura 'point-and-click'. Com um humor inteligente e design de quebra-cabeças que evitava mortes injustas, eles criaram clássicos atemporais como The Secret of Monkey Island e Day of the Tentacle. O motor SCUMM, desenvolvido por eles, tornou-se a base para uma era de ouro dos jogos de aventura, e seu legado de escrita e design de personagens ainda é influente hoje.",
+    "data_criacao": 1982,
+    "fundadores": [
+      "George Lucas"
+    ],
+    "sede": "San Francisco, Califórnia, EUA",
+    "website": "https://www.lucasfilm.com/games/",
+    "cores": {
+      "principal": "#FFC90E",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "The Secret of Monkey Island",
+        "descricao": "Um marco dos jogos de aventura, famoso por seu humor, personagens e quebra-cabeças.",
+        "ano": 1990
+      },
+      {
+        "nome": "Star Wars: Knights of the Old Republic",
+        "descricao": "Um RPG épico (desenvolvido pela BioWare) que redefiniu a narrativa no universo Star Wars.",
+        "ano": 2003
+      }
+    ]
+  },
+  {
+    "empresa": "Guerilla Games",
+    "revolucao": "Parte da PlayStation Studios, a Guerilla Games é um exemplo de evolução e excelência técnica. Originalmente conhecida pela série de FPS Killzone, o estúdio se reinventou completamente com Horizon Zero Dawn, criando uma nova e massiva propriedade intelectual de mundo aberto. Eles são mestres em otimização de hardware, empurrando os limites visuais dos consoles PlayStation com seu motor gráfico Decima Engine.",
+    "data_criacao": 2000,
+    "fundadores": [
+      "Arjan Brussee",
+      "Arnout van der Kamp",
+      "Michiel van der Leeuw"
+    ],
+    "sede": "Amsterdã, Holanda",
+    "website": "https://www.guerrilla-games.com/",
+    "cores": {
+      "principal": "#FFFFFF",
+      "texto": "#000000"
+    },
+    "jogos": [
+      {
+        "nome": "Killzone 2",
+        "descricao": "Um FPS que se tornou um benchmark gráfico para o PlayStation 3 na época.",
+        "ano": 2009
+      },
+      {
+        "nome": "Horizon Zero Dawn",
+        "descricao": "Um aclamado RPG de ação em mundo aberto com um conceito único de dinossauros robóticos.",
+        "ano": 2017
+      }
+    ]
+  }
+]
