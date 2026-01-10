@@ -7,25 +7,82 @@
     <title>Base de Conhecimento</title>
 </head>
 <body>
-    <header class="page-header">
-        <div class="container">
-            <a href="https://cursos.alura.com.br/imersoes">
-                <img src="https://cdn.aptoide.com/imgs/5/f/b/5fbc209c8b010d62bdf44087286f70a9_icon.png?w=128" alt="Logo da Alura" class="logo" title="Acesse o site da Alura">
-            </a>
-            <h1>Base de Conhecimento</h1>
-            <h2 class="desc"> Alguma vez já pensou em como as grandes empresas de jogos fizeram seu nome no mercado?
-                 então você está no lugar certo. Explore por aqui as desenvolvedoras de jogos e como elas
-                inovaram no mercado.
-            </h2>
-            <form role="search" onsubmit="buscar(event)">
-                <label for="search-input" class="sr-only">Pesquisar</label>
-                <input type="text" id="search-input" placeholder="Pesquisar">
-                <button type="submit" class="btn btn-primary">Buscar</button>
-            </form>
+    <div id="splash-screen">
+        <div class="scanlines"></div>
+        <div class="splash-content">
+            <h1 class="splash-logo" data-text="GAME DB">GAME DB</h1>
+            <h2 class="splash-subtitle">Game Industry Tracker</h2>
+            <p class="splash-text">Acesso ao banco de dados confidencial da indústria.</p>
+            <button id="enter-btn"><span>INITIALIZE SYSTEM</span></button>
+        </div>
+    </div>
+    <nav class="xeno-navbar">
+        <div class="nav-container">
+            <div class="nav-logo">GAME DB</div>
+            <ul class="nav-menu">
+                <li><a href="#" class="nav-link">Home</a></li>
+                <li><a href="#features" class="nav-link">Features</a></li>
+                <li><a href="#database" class="nav-link">Database</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+                <li><button id="theme-toggle" class="theme-btn">☀/☾</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="xeno-hero">
+        <div class="hero-content">
+            <div class="hero-badge">:: SISTEMA ONLINE V.2.0.4 ::</div>
+            <h1>NEXUS DE DADOS DA INDÚSTRIA</h1>
+            <p>Inicializando protocolos de arquivamento... Bem-vindo ao repositório central. Aqui catalogamos a ascensão das megacorporações que definiram nossa realidade virtual. Dados brutos, história preservada e identidades visuais decodificadas.</p>
+            <div class="hero-actions">
+                <a href="#database" class="hero-btn">INICIAR VARREDURA</a>
+                <a href="#features" class="hero-btn secondary">LER RELATÓRIO</a>
+            </div>
         </div>
     </header>
 
-    <main class="main">
+    <section id="features" class="xeno-features">
+        <div class="feature-card">
+            <div class="feature-icon">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 4.02 2 6.5S6.48 11 12 11s10-2.02 10-4.5S17.52 2 12 2zm0 2c3.31 0 6 1.12 6 2.5S15.31 9 12 9 6 7.88 6 6.5 8.69 4 12 4zm0 9c-3.31 0-6-1.12-6-2.5V12c0 1.38 2.69 2.5 6 2.5s6-1.12 6-2.5v-1.5c0 1.38-2.69 2.5-6 2.5zm0 5c-3.31 0-6-1.12-6-2.5V17c0 1.38 2.69 2.5 6 2.5s6-1.12 6-2.5v-1.5c0 1.38-2.69 2.5-6 2.5z"/></svg>
+            </div>
+            <h3>Arquivo Histórico</h3>
+            <p>Explore a trajetória completa das maiores desenvolvedoras, desde sua fundação até seus jogos revolucionários.</p>
+        </div>
+        <div class="feature-card">
+            <div class="feature-icon">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+            </div>
+            <h3>Cronologia da Indústria</h3>
+            <p>Visualize a evolução do mercado organizando estúdios por data de criação e impacto geracional.</p>
+        </div>
+        <div class="feature-card">
+            <div class="feature-icon">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9c.83 0 1.5-.67 1.5-1.5 0-.39-.15-.74-.39-1.01-.23-.26-.38-.61-.38-.99 0-.83.67-1.5 1.5-1.5H16c2.76 0 5-2.24 5-5 0-4.42-4.03-8-9-8zm-5.5 9c-.83 0-1.5-.67-1.5-1.5S5.67 9 6.5 9 8 9.67 8 10.5 7.33 12 6.5 12zm3-4C8.67 8 8 7.33 8 6.5S8.67 5 9.5 5s1.5.67 1.5 1.5S10.33 8 9.5 8zm5 0c-.83 0-1.5-.67-1.5-1.5S13.67 5 14.5 5s1.5.67 1.5 1.5S15.33 8 14.5 8zm3 4c-.83 0-1.5-.67-1.5-1.5S16.67 9 17.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
+            </div>
+            <h3>Identidade Preservada</h3>
+            <p>Interface adaptativa que reflete as cores e o estilo visual único de cada marca listada.</p>
+        </div>
+    </section>
+
+    <section id="database" class="database-section">
+        <div class="container">
+            <div class="database-header">
+                <h2 class="section-title">DATABASE ACCESS</h2>
+                <p class="section-desc">Explore o arquivo confidencial das desenvolvedoras que moldaram a indústria.</p>
+            </div>
+
+            <div class="control-panel">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" placeholder="> Digite o nome da empresa..." oninput="buscar(event)">
+                </div>
+                <div class="filters-wrapper">
+                    <span class="filter-label">SORT BY:</span>
+                    <button class="filter-btn active" onclick="ordenar('nome', this)">[ A-Z ]</button>
+                    <button class="filter-btn" onclick="ordenar('ano', this)">[ CRONOLOGIA ]</button>
+                </div>
+            </div>
+
         <section class="card-container">
             <!-- <article class="card">
                 <h2>Nintendo</h2>
@@ -37,11 +94,12 @@
                 </p>
             </article> -->
         </section>
-    </main>
+        </div>
+    </section>
 
     <footer class="page-footer">
         <div class="container">
-            <p>Se você chegou até aqui, saiba que não gostamos da EA.</p>
+            
         </div>
     </footer>
 
